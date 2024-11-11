@@ -1,0 +1,16 @@
+# dependencies
+/node_modules
+
+# build output
+/build
+
+# misc
+.DS_Store
+*.log
+
+# environment files
+.env
+
+# npm package-lock and yarn.lock
+package-lock.json
+yarn.lock
